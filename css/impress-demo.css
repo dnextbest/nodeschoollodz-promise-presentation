@@ -245,6 +245,11 @@ a:focus {
     white-space: nowrap;
 }
 
+.promise-code {
+    width: 950px;
+    font-size: 40px;
+}
+
 /*
     And now we start to style each step separately.
 
